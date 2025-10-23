@@ -1,4 +1,5 @@
-# Ultimate Resume Scanner - NLP
+# Ultimate Resume Scanner - NLP [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A **live resume scanning and ranking tool** built using Python, Streamlit, and NLP. The app parses resumes (PDF/DOCX), extracts skills, experience, and education, ranks candidates against a job description, and generates highlighted resumes and full PDF reports.
 
